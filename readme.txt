@@ -20,9 +20,9 @@ Front End PM extension to integrate with WooCommerce. User can contact seller di
 This two plugins need to be activated first before activating this extension.
 
 Once activated, user can send message to seller directly from product page.
-You can go to Dashboard > Front End PM > Settings > Misc > WooCommerce to set if you want your users can contact seller only after purchase. You can also set in which order statuses customer can contact seller. 
+You can go to Dashboard > Front End PM > Settings > Misc > WooCommerce to set if you want your users can contact seller only after purchase. You can also set in which order statuses customer can contact seller.
 
-[More Details](https://www.shamimsplugins.com/docs/front-end-pm/integration/front-end-pm-ultimate-member-integration/?utm_campaign=wordpress&utm_source=readme&utm_medium=description)
+[More Details](https://www.shamimsplugins.com/docs/front-end-pm/integration/front-end-pm-woocommerce-integration/?utm_campaign=wordpress&utm_source=readme&utm_medium=description)
 
 **Github**
 
@@ -42,8 +42,9 @@ go to Dashboard > Front End PM > Settings > Misc > WooCommerce
 
 == Screenshots ==
 
-1. Settings
-2. product page
+1. Product page
+2. Product page without purchase
+3. Settings
 
 == Changelog ==
 
